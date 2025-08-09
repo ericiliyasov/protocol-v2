@@ -6,11 +6,7 @@
       `/+: -+/`            `++- :+/`    /+/         `/+/   `++.
       /+/   :+/            /+:   /+/    `/+/        /+/`   `++.
   -::/++::`  /+:       -::/++::` `/+:    `++:      :++`    `++/:::::::::.
-  -:+++::-`  `/+:      --++/---`  `++-    .++-    -++.     `++/:::::::::.
-   -++.       .++-      -++`       .++.    .++.  .++-      `++.
-  .++-         -++.    .++.         -++.    -++``++-       `++.
- `++:           :++`  .++-           :++`    :+//+:        `++:----------`
- -/:             :/-  -/:             :/.     ://:         `/////////////-
+  -:+++::-`  `/+:      -
 ```
 
 # Aave Protocol v2
@@ -83,6 +79,10 @@ Follow the next steps to setup the repository:
 - Create an enviroment file named `.env` and fill the next enviroment variables
 
 ```
+
+
+
+
 # Mnemonic, only first address will be used
 MNEMONIC=""
 
